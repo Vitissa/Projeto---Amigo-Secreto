@@ -2,7 +2,7 @@
 <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/2a17cf0c-1a31-4cda-97d9-243ed05b0d0c" />
 
 - Status do Projeto: Concluído
-- # Descrição do Projeto:
+ # Descrição do Projeto:
 Este projeto consiste na criação de um sistema simples e eficiente para realizar o sorteio do amigo secreto, ideal para desafios, eventos ou confraternizações. A aplicação permite que os participantes sejam cadastrados e, ao final, realiza automaticamente o sorteio, garantindo que cada pessoa receba o nome de um amigo secreto de forma justa e aleatória.
 
 O objetivo principal é facilitar a organização do sorteio, eliminando a necessidade de processos manuais e reduzindo possíveis erros na distribuição dos nomes. O projeto foi desenvolvido utilizando tecnologias web básicas, como HTML, CSS e JavaScript, e oferece uma interface intuitiva para o usuário.
