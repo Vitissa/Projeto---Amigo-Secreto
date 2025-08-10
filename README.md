@@ -27,7 +27,7 @@ Este sistema é perfeito para quem deseja realizar sorteios de forma rápida, pr
 <img width="1362" height="634" alt="Captura de tela de 2025-08-10 17-33-44" src="https://github.com/user-attachments/assets/8f2d4cd1-c5d3-47e6-82da-42dd14784051" />
 <img width="1362" hei[Gravação de tela de 2025-08-10 17-34-55.webm](https://github.com/user-attachments/assets/53c077d5-3f8f-4d00-9202-b5142abd0813)
 
-Vídeo instrutivo "https://github.com/user-attachments/assets/d7186179-8ec9-4c12-8297-aa02c63afc1f" />
+Vídeo instrutivo 
 [Gravação de tela de 2025-08-10 17-34-55.webm](https://github.com/user-attachments/assets/4caa6f8e-f738-4d90-94bc-5e3b798d1511)
 
 
